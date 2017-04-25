@@ -10,13 +10,14 @@ import { AppRoutingModule } from './app.route';
 import { AppComponent } from './app/app.component';
 import { HomeComponent } from './home/home.component';
 import { JobComponent } from './job/job.component';
-
+import { HeaderComponent } from './shared/header/header.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
-    JobComponent
+    JobComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,

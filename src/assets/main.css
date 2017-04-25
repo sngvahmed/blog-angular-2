@@ -1,0 +1,8 @@
+html{
+  background-image: url(img/background.jpg)
+}
+
+body{
+  margin-top: 60px !important;
+  background: transparent !important;
+}
